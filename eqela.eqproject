@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# EqelaTaskList
+#
+
+projectname: EqelaTaskList
+vendorid: com.jicadiego
+mainmodule: com.jicadiego.eqelatasklist
